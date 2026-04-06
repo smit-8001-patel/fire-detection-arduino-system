@@ -1,5 +1,10 @@
 # 🔥 Fire Detection and Emergency Response System (Arduino)
 
+## 🔗 Live Simulation
+
+You can view and run the project here:
+https://www.tinkercad.com/things/2HoJ91XNdEW-fire-detection-arduino-system
+
 ## 🔹 Overview
 This project is a smart fire detection system built using Arduino in Tinkercad. It combines multiple sensors to detect fire hazards and trigger emergency alerts.
 
@@ -34,3 +39,4 @@ The system reads sensor data continuously:
 ## 🔹 Output
 - LCD displays status
 - LED and buzzer activate during fire detection
+
